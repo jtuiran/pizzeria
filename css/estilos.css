@@ -108,11 +108,15 @@ a{
 /*SECCION 2*/
 
 .seccion{
+    width: 100%;
+    margin: auto;
+    max-width: 1200px;
+    
+}
+
+.seccion_maps{
     height: 100%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 80%;
+    width: 50%;
     margin: auto;
     max-width: 1200px;
     
